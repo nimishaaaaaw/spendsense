@@ -1,0 +1,366 @@
+Date,Description,TrueMerchant,TrueCategory,IsSubscription
+2026-01-01,UPI-Ananya Iyer-ananya.iyer@ybl-696582-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-01-01,NEFT-TECHCORP SOLUTIONS PVT LTD-SAL-960013,Salary,Income,False
+2026-01-01,UPI-FITZONE GYM-fitzone@ybl-043321,Local Gym,Subscription-Fitness,True
+2026-01-01,UPI-Ananya Iyer-ananya.iyer@ybl-898364-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-01-02,UPI-Rohan Mehta-rohan.mehta@paytm-613791,Friend Transfer,Personal Transfer,False
+2026-01-02,POS 3321 UBER TRIP,Uber,Transport,False
+2026-01-02,UBER INDIA SYSTEMS-159696,Uber,Transport,False
+2026-01-03,NETFLIX.COM-838637-RECURRING,Netflix,Subscription-Entertainment,True
+2026-01-04,BHARTI AIRTEL LTD-026542,Broadband,Utilities,True
+2026-01-05,MYNTRA DESIGNS PVT LTD-752895,Myntra,Shopping,False
+2026-01-05,POS 3321 UBER TRIP,Uber,Transport,False
+2026-01-05,UPI-CULTFIT-cultfit@ybl-116155,CultFit,Subscription-Fitness,True
+2026-01-05,UPI-ZOMATO-zomato.37@icici-102499,Zomato,Food Delivery,False
+2026-01-06,BSES RAJDHANI POWER LTD-801006,Electricity Board,Utilities,False
+2026-01-07,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-01-07,UPI-UBER INDIA-uber.payments@hdfcbank-244510,Uber,Transport,False
+2026-01-07,ANI TECHNOLOGIES PVT LTD-842199,Ola,Transport,False
+2026-01-08,ANI TECHNOLOGIES PVT LTD-437575,Ola,Transport,False
+2026-01-08,UPI-OLA CABS-olamoney@icici-301657,Ola,Transport,False
+2026-01-09,UPI-JIO RECHARGE-jio@icici-250392,Mobile Recharge,Utilities,False
+2026-01-09,POS 9012 DMART RETAIL,Big Bazaar/Grocery,Groceries,False
+2026-01-09,POS 1190 AMAZON PAY INDIA,Amazon,Shopping,False
+2026-01-09,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-01-11,UPI-SPOTIFY-spotify@axisbank-078161,Spotify,Subscription-Entertainment,True
+2026-01-12,IMPS-RENT PAYMENT-604661,Rent,Housing,False
+2026-01-12,UPI-UBER INDIA-uber.payments@hdfcbank-369681,Uber,Transport,False
+2026-01-13,UBER INDIA SYSTEMS-254599,Uber,Transport,False
+2026-01-14,POS 7782 ZOMATO ONLINE,Zomato,Food Delivery,False
+2026-01-15,UPI-UBER INDIA-uber.payments@hdfcbank-815614,Uber,Transport,False
+2026-01-15,POS 7782 ZOMATO ONLINE,Zomato,Food Delivery,False
+2026-01-17,NOVI DIGITAL ENTERTAINMENT-959310,Hotstar,Subscription-Entertainment,True
+2026-01-19,UBER INDIA SYSTEMS-899809,Uber,Transport,False
+2026-01-19,PVR LIMITED-706625,Movie/PVR,Entertainment,False
+2026-01-20,UPI-Swiggy Limited-swiggy@axisbank-226025,Swiggy,Food Delivery,False
+2026-01-21,MINDWELL TECHNOLOGIES-413164-AUTOPAY,MindWell App,Subscription-Wellness,True
+2026-01-21,UPI-UBER INDIA-uber.payments@hdfcbank-605297,Uber,Transport,False
+2026-01-21,UPI-FLIPKART-flipkart.52@hdfcbank-673657,Flipkart,Shopping,False
+2026-01-22,POS 3321 UBER TRIP,Uber,Transport,False
+2026-01-22,ANI TECHNOLOGIES PVT LTD-973348,Ola,Transport,False
+2026-01-22,BLINKIT INSTAMART-617979,Big Bazaar/Grocery,Groceries,False
+2026-01-22,UPI-BIGBASKET-bigbasket@ybl-965610,Big Bazaar/Grocery,Groceries,False
+2026-01-22,UPI-OLA CABS-olamoney@icici-826773,Ola,Transport,False
+2026-01-22,POS 1190 AMAZON PAY INDIA,Amazon,Shopping,False
+2026-01-23,UPI-ZEPTO-zepto@icici-167243,Big Bazaar/Grocery,Groceries,False
+2026-01-23,UPI-SWIGGY-swiggy.6@ybl-598262-PAYMENT,Swiggy,Food Delivery,False
+2026-01-25,UPI-Swiggy Limited-swiggy@axisbank-786801,Swiggy,Food Delivery,False
+2026-01-26,UPI-Swiggy Limited-swiggy@axisbank-421607,Swiggy,Food Delivery,False
+2026-01-26,UPI-Ananya Iyer-ananya.iyer@ybl-389994-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-01-26,ANI TECHNOLOGIES PVT LTD-198665,Ola,Transport,False
+2026-01-26,UPI-SWIGGY-swiggy.53@ybl-533158-PAYMENT,Swiggy,Food Delivery,False
+2026-01-26,UPI-OLA CABS-olamoney@icici-415747,Ola,Transport,False
+2026-01-27,UPI-ZEPTO-zepto@icici-193982,Big Bazaar/Grocery,Groceries,False
+2026-01-27,UPI-UBER INDIA-uber.payments@hdfcbank-244550,Uber,Transport,False
+2026-01-28,AMAZON SELLER SERVICES-851604,Amazon,Shopping,False
+2026-01-28,UPI-BIGBASKET-bigbasket@ybl-589113,Big Bazaar/Grocery,Groceries,False
+2026-01-28,POS 3321 UBER TRIP,Uber,Transport,False
+2026-01-29,UPI-SWIGGY REFUND-swiggy.17@ybl-172233-REFUND,Refund-Swiggy,Refund,False
+2026-02-01,AMAZON PRIME MEMBERSHIP-255341,Amazon Prime,Subscription-Entertainment,True
+2026-02-01,UPI-FITZONE GYM-fitzone@ybl-832764,Local Gym,Subscription-Fitness,True
+2026-02-01,NEFT-TECHCORP SOLUTIONS PVT LTD-SAL-503056,Salary,Income,False
+2026-02-02,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-02-03,UPI-JIO RECHARGE-jio@icici-968562,Mobile Recharge,Utilities,False
+2026-02-03,UPI-Zomato Limited-551256-PAYMENT,Zomato,Food Delivery,False
+2026-02-03,BSES RAJDHANI POWER LTD-387509,Electricity Board,Utilities,False
+2026-02-03,BUNDL TECHNOLOGIES PVT LTD-951484,Swiggy,Food Delivery,False
+2026-02-03,UPI-Rohan Mehta-rohan.mehta@ybl-856914-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-02-03,NETFLIX.COM-395376-RECURRING,Netflix,Subscription-Entertainment,True
+2026-02-04,BHARTI AIRTEL LTD-242388,Broadband,Utilities,True
+2026-02-04,UPI-Zomato Limited-808760-PAYMENT,Zomato,Food Delivery,False
+2026-02-04,UPI-PHARMEASY-pharmeasy@ybl-688444,Pharmacy,Health,False
+2026-02-05,UPI-CULTFIT-cultfit@ybl-965328,CultFit,Subscription-Fitness,True
+2026-02-06,ANI TECHNOLOGIES PVT LTD-685161,Ola,Transport,False
+2026-02-06,BLINKIT INSTAMART-736226,Big Bazaar/Grocery,Groceries,False
+2026-02-08,UPI-Karan Verma-karanv90@ybl-421020-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-02-09,BLINKIT INSTAMART-859696,Big Bazaar/Grocery,Groceries,False
+2026-02-09,UBER INDIA SYSTEMS-814770,Uber,Transport,False
+2026-02-09,UPI-PVR CINEMAS-pvr@hdfcbank-099934,Movie/PVR,Entertainment,False
+2026-02-10,UPI-AMAZON PAY-amazonpay@apl-138267,Amazon,Shopping,False
+2026-02-10,UPI-BIGBASKET-bigbasket@ybl-125457,Big Bazaar/Grocery,Groceries,False
+2026-02-11,UPI-Swiggy Limited-swiggy@axisbank-433200,Swiggy,Food Delivery,False
+2026-02-11,POS 3321 UBER TRIP,Uber,Transport,False
+2026-02-11,UPI-OLA CABS-olamoney@icici-193802,Ola,Transport,False
+2026-02-11,SPOTIFY INDIA-012269-AUTOPAY,Spotify,Subscription-Entertainment,True
+2026-02-11,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-02-12,UPI-UBER INDIA-uber.payments@hdfcbank-199867,Uber,Transport,False
+2026-02-13,UPI-SWIGGY-swiggy.84@ybl-443699-PAYMENT,Swiggy,Food Delivery,False
+2026-02-13,UBER INDIA SYSTEMS-281685,Uber,Transport,False
+2026-02-16,UPI-Zomato Limited-807154-PAYMENT,Zomato,Food Delivery,False
+2026-02-16,UPI-Ananya Iyer-ananya.iyer@ybl-524105-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-02-17,UPI-UBER INDIA-uber.payments@hdfcbank-715182,Uber,Transport,False
+2026-02-17,BLINKIT INSTAMART-177514,Big Bazaar/Grocery,Groceries,False
+2026-02-17,UPI-Zomato Limited-703482-PAYMENT,Zomato,Food Delivery,False
+2026-02-18,POS 3321 UBER TRIP,Uber,Transport,False
+2026-02-19,ANI TECHNOLOGIES PVT LTD-478872,Ola,Transport,False
+2026-02-19,UPI-ZOMATO-zomato.56@icici-787429,Zomato,Food Delivery,False
+2026-02-19,IMPS-RENT PAYMENT-224447,Rent,Housing,False
+2026-02-19,UBER INDIA SYSTEMS-462914,Uber,Transport,False
+2026-02-19,POS 3321 UBER TRIP,Uber,Transport,False
+2026-02-19,MYNTRA DESIGNS PVT LTD-939172,Myntra,Shopping,False
+2026-02-19,UPI-SWIGGY-swiggy.56@ybl-608835-PAYMENT,Swiggy,Food Delivery,False
+2026-02-19,MYNTRA DESIGNS PVT LTD-442209,Myntra,Shopping,False
+2026-02-20,POS 2210 APOLLO PHARMACY,Pharmacy,Health,False
+2026-02-20,POS 3321 UBER TRIP,Uber,Transport,False
+2026-02-20,UBER INDIA SYSTEMS-466590,Uber,Transport,False
+2026-02-20,UPI-AMAZON PAY-amazonpay@apl-746120,Amazon,Shopping,False
+2026-02-21,MINDWELL TECHNOLOGIES-697848-AUTOPAY,MindWell App,Subscription-Wellness,True
+2026-02-23,UPI-Swiggy Limited-swiggy@axisbank-366299,Swiggy,Food Delivery,False
+2026-02-23,AMAZON SELLER SERVICES-926179,Amazon,Shopping,False
+2026-02-23,UPI-ZEPTO-zepto@icici-191825,Big Bazaar/Grocery,Groceries,False
+2026-02-24,UBER INDIA SYSTEMS-218188,Uber,Transport,False
+2026-02-24,FLIPKART INTERNET PVT LTD-545271,Flipkart,Shopping,False
+2026-02-25,UPI-Priya Sharma-priyasharma22@ybl-430068-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-02-25,UPI-Karan Verma-karanv90@ybl-889241-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-02-25,POS 3321 UBER TRIP,Uber,Transport,False
+2026-02-26,UPI-BIGBASKET-bigbasket@ybl-512382,Big Bazaar/Grocery,Groceries,False
+2026-02-26,UPI-OLA CABS-olamoney@icici-742054,Ola,Transport,False
+2026-02-27,UPI-OLA CABS-olamoney@icici-672400,Ola,Transport,False
+2026-03-01,UPI-FITZONE GYM-fitzone@ybl-845146,Local Gym,Subscription-Fitness,True
+2026-03-01,NEFT-TECHCORP SOLUTIONS PVT LTD-SAL-048281,Salary,Income,False
+2026-03-02,AMAZN PAY IND-773515,Amazon,Shopping,False
+2026-03-02,UBER INDIA SYSTEMS-818141,Uber,Transport,False
+2026-03-03,MYNTRA DESIGNS PVT LTD-215704,Myntra,Shopping,False
+2026-03-03,UPI-NETFLIX-netflix@icici-893252,Netflix,Subscription-Entertainment,True
+2026-03-04,UPI-AIRTEL BROADBAND-airtel@paytm-957015,Broadband,Utilities,True
+2026-03-04,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-03-05,CURE FIT HEALTHCARE-039117-AUTOPAY,CultFit,Subscription-Fitness,True
+2026-03-05,POS 9012 DMART RETAIL,Big Bazaar/Grocery,Groceries,False
+2026-03-05,BLINKIT INSTAMART-905072,Big Bazaar/Grocery,Groceries,False
+2026-03-06,ANI TECHNOLOGIES PVT LTD-145933,Ola,Transport,False
+2026-03-06,POS 3321 UBER TRIP,Uber,Transport,False
+2026-03-06,IMPS-RENT PAYMENT-471543,Rent,Housing,False
+2026-03-08,UPI-SWIGGY-swiggy.72@ybl-632870-PAYMENT,Swiggy,Food Delivery,False
+2026-03-09,UPI-Zomato Limited-737826-PAYMENT,Zomato,Food Delivery,False
+2026-03-10,POS 7782 ZOMATO ONLINE,Zomato,Food Delivery,False
+2026-03-10,UPI-OLA CABS-olamoney@icici-453017,Ola,Transport,False
+2026-03-10,UPI-UBER INDIA-uber.payments@hdfcbank-888059,Uber,Transport,False
+2026-03-10,UPI-UBER INDIA-uber.payments@hdfcbank-573322,Uber,Transport,False
+2026-03-10,POS 3321 UBER TRIP,Uber,Transport,False
+2026-03-11,UPI-SWIGGY-swiggy.9@ybl-223623-PAYMENT,Swiggy,Food Delivery,False
+2026-03-11,UPI-PVR CINEMAS-pvr@hdfcbank-059304,Movie/PVR,Entertainment,False
+2026-03-11,SPOTIFY INDIA-278248-AUTOPAY,Spotify,Subscription-Entertainment,True
+2026-03-11,POS 7782 ZOMATO ONLINE,Zomato,Food Delivery,False
+2026-03-12,UPI-Priya Sharma-priyasharma22@ybl-380003-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-03-12,UPI-MYNTRA-myntra@icici-006762,Myntra,Shopping,False
+2026-03-12,BLINKIT INSTAMART-924991,Big Bazaar/Grocery,Groceries,False
+2026-03-13,UPI-AMAZON PAY-amazonpay@apl-713900,Amazon,Shopping,False
+2026-03-14,UPI-AMAZON PAY-amazonpay@apl-616329,Amazon,Shopping,False
+2026-03-14,POS 1190 AMAZON PAY INDIA,Amazon,Shopping,False
+2026-03-14,UPI-ZOMATO-zomato.91@icici-712748,Zomato,Food Delivery,False
+2026-03-14,UPI-UBER INDIA-uber.payments@hdfcbank-615305,Uber,Transport,False
+2026-03-16,BUNDL TECHNOLOGIES PVT LTD-466889,Swiggy,Food Delivery,False
+2026-03-16,ANI TECHNOLOGIES PVT LTD-687833,Ola,Transport,False
+2026-03-16,UPI-Rohan Mehta-rohan.mehta@ybl-086353-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-03-16,UPI-OLA CABS-olamoney@icici-046374,Ola,Transport,False
+2026-03-17,UPI-Priya Sharma-priyasharma22@paytm-785079,Friend Transfer,Personal Transfer,False
+2026-03-17,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-03-17,UPI-ELECTRICITY BILL-bbps@upi-086211,Electricity Board,Utilities,False
+2026-03-17,UPI-JIO RECHARGE-jio@icici-016315,Mobile Recharge,Utilities,False
+2026-03-18,PVR LIMITED-578759,Movie/PVR,Entertainment,False
+2026-03-18,UPI-PVR CINEMAS-pvr@hdfcbank-462638,Movie/PVR,Entertainment,False
+2026-03-18,UPI-SWIGGY-swiggy.49@ybl-366909-PAYMENT,Swiggy,Food Delivery,False
+2026-03-19,POS 9012 DMART RETAIL,Big Bazaar/Grocery,Groceries,False
+2026-03-20,UPI-ZOMATO-zomato.1@icici-146584,Zomato,Food Delivery,False
+2026-03-20,UPI-UBER INDIA-uber.payments@hdfcbank-798089,Uber,Transport,False
+2026-03-20,UPI-UBER INDIA-uber.payments@hdfcbank-292706,Uber,Transport,False
+2026-03-20,UPI-SWIGGY-swiggy.52@ybl-769367-PAYMENT,Swiggy,Food Delivery,False
+2026-03-21,MINDWELL TECHNOLOGIES-383465-AUTOPAY,MindWell App,Subscription-Wellness,True
+2026-03-23,UBER INDIA SYSTEMS-095396,Uber,Transport,False
+2026-03-23,POS 3321 UBER TRIP,Uber,Transport,False
+2026-03-23,UPI-ZOMATO-zomato.71@icici-932480,Zomato,Food Delivery,False
+2026-03-24,UBER INDIA SYSTEMS-143410,Uber,Transport,False
+2026-03-24,UPI-Priya Sharma-priyasharma22@paytm-180238,Friend Transfer,Personal Transfer,False
+2026-03-25,UBER INDIA SYSTEMS-383473,Uber,Transport,False
+2026-03-25,UPI-Swiggy Limited-swiggy@axisbank-471434,Swiggy,Food Delivery,False
+2026-03-26,UPI-AMAZON PAY-amazonpay@apl-839335,Amazon,Shopping,False
+2026-03-27,UBER INDIA SYSTEMS-220472,Uber,Transport,False
+2026-04-01,FITZONE FITNESS CENTER-133150,Local Gym,Subscription-Fitness,True
+2026-04-01,NEFT-TECHCORP SOLUTIONS PVT LTD-SAL-930103,Salary,Income,False
+2026-04-01,UPI-Priya Sharma-priyasharma22@ybl-850506-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-04-02,UPI-OLA CABS-olamoney@icici-982258,Ola,Transport,False
+2026-04-02,UPI-PVR CINEMAS-pvr@hdfcbank-965223,Movie/PVR,Entertainment,False
+2026-04-03,UPI-Ananya Iyer-ananya.iyer@paytm-518705,Friend Transfer,Personal Transfer,False
+2026-04-03,UPI-SWIGGY-swiggy.31@ybl-033092-PAYMENT,Swiggy,Food Delivery,False
+2026-04-03,ANI TECHNOLOGIES PVT LTD-180170,Ola,Transport,False
+2026-04-03,POS 3321 UBER TRIP,Uber,Transport,False
+2026-04-03,NETFLIX.COM-518347-RECURRING,Netflix,Subscription-Entertainment,True
+2026-04-03,POS 7782 ZOMATO ONLINE,Zomato,Food Delivery,False
+2026-04-04,UPI-AIRTEL BROADBAND-airtel@paytm-997376,Broadband,Utilities,True
+2026-04-05,CURE FIT HEALTHCARE-165667-AUTOPAY,CultFit,Subscription-Fitness,True
+2026-04-06,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-04-06,POS 3321 UBER TRIP,Uber,Transport,False
+2026-04-06,UBER INDIA SYSTEMS-155188,Uber,Transport,False
+2026-04-07,BUNDL TECHNOLOGIES PVT LTD-529912,Swiggy,Food Delivery,False
+2026-04-07,UPI-BIGBASKET-bigbasket@ybl-340745,Big Bazaar/Grocery,Groceries,False
+2026-04-08,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-04-08,UPI-ELECTRICITY BILL-bbps@upi-546156,Electricity Board,Utilities,False
+2026-04-08,UPI-UBER INDIA-uber.payments@hdfcbank-589578,Uber,Transport,False
+2026-04-08,POS 3321 UBER TRIP,Uber,Transport,False
+2026-04-08,UPI-Karan Verma-karanv90@paytm-719182,Friend Transfer,Personal Transfer,False
+2026-04-09,POS 3321 UBER TRIP,Uber,Transport,False
+2026-04-09,AMAZN PAY IND-284210,Amazon,Shopping,False
+2026-04-10,UPI-Ananya Iyer-ananya.iyer@ybl-759738-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-04-10,POS 9012 DMART RETAIL,Big Bazaar/Grocery,Groceries,False
+2026-04-10,POS 3321 UBER TRIP,Uber,Transport,False
+2026-04-10,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-04-10,UPI-UBER INDIA-uber.payments@hdfcbank-054868,Uber,Transport,False
+2026-04-11,SPOTIFY INDIA-106513-AUTOPAY,Spotify,Subscription-Entertainment,True
+2026-04-13,UBER INDIA SYSTEMS-527758,Uber,Transport,False
+2026-04-13,UBER INDIA SYSTEMS-310278,Uber,Transport,False
+2026-04-13,UPI-UBER INDIA-uber.payments@hdfcbank-654051,Uber,Transport,False
+2026-04-13,MYNTRA DESIGNS PVT LTD-179327,Myntra,Shopping,False
+2026-04-13,UPI-Zomato Limited-865780-PAYMENT,Zomato,Food Delivery,False
+2026-04-14,POS 3321 UBER TRIP,Uber,Transport,False
+2026-04-14,UPI-SWIGGY-swiggy.84@ybl-708053-PAYMENT,Swiggy,Food Delivery,False
+2026-04-14,UPI-OLA CABS-olamoney@icici-656766,Ola,Transport,False
+2026-04-15,UPI-Zomato Limited-026217-PAYMENT,Zomato,Food Delivery,False
+2026-04-15,POS 3321 UBER TRIP,Uber,Transport,False
+2026-04-15,UPI-BIGBASKET-bigbasket@ybl-339596,Big Bazaar/Grocery,Groceries,False
+2026-04-15,ANI TECHNOLOGIES PVT LTD-406403,Ola,Transport,False
+2026-04-16,BLINKIT INSTAMART-677219,Big Bazaar/Grocery,Groceries,False
+2026-04-17,UPI-BIGBASKET-bigbasket@ybl-485807,Big Bazaar/Grocery,Groceries,False
+2026-04-17,POS 3321 UBER TRIP,Uber,Transport,False
+2026-04-17,NOVI DIGITAL ENTERTAINMENT-872624,Hotstar,Subscription-Entertainment,True
+2026-04-17,UPI-PVR CINEMAS-pvr@hdfcbank-213348,Movie/PVR,Entertainment,False
+2026-04-20,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-04-20,IMPS-RENT PAYMENT-124065,Rent,Housing,False
+2026-04-20,UPI-OLA CABS-olamoney@icici-878519,Ola,Transport,False
+2026-04-20,POS 9012 DMART RETAIL,Big Bazaar/Grocery,Groceries,False
+2026-04-21,UPI-JIO RECHARGE-jio@icici-735866,Mobile Recharge,Utilities,False
+2026-04-21,MINDWELL TECHNOLOGIES-178108-AUTOPAY,MindWell App,Subscription-Wellness,True
+2026-04-22,UBER INDIA SYSTEMS-571928,Uber,Transport,False
+2026-04-22,UPI-SWIGGY-swiggy.9@ybl-905865-PAYMENT,Swiggy,Food Delivery,False
+2026-04-22,UPI-OLA CABS-olamoney@icici-512868,Ola,Transport,False
+2026-04-22,UBER INDIA SYSTEMS-962757,Uber,Transport,False
+2026-04-22,UBER INDIA SYSTEMS-188888,Uber,Transport,False
+2026-04-23,UPI-OLA CABS-olamoney@icici-870728,Ola,Transport,False
+2026-04-23,UPI-PVR CINEMAS-pvr@hdfcbank-599293,Movie/PVR,Entertainment,False
+2026-04-23,UPI-ZEPTO-zepto@icici-812604,Big Bazaar/Grocery,Groceries,False
+2026-04-24,UPI-Rohan Mehta-rohan.mehta@ybl-670241-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-04-24,UPI-OLA CABS-olamoney@icici-047868,Ola,Transport,False
+2026-04-24,UBER INDIA SYSTEMS-964016,Uber,Transport,False
+2026-04-27,ANI TECHNOLOGIES PVT LTD-524310,Ola,Transport,False
+2026-04-28,UPI-ZOMATO-zomato.5@icici-576627,Zomato,Food Delivery,False
+2026-05-01,UPI-FITZONE GYM-fitzone@ybl-326773,Local Gym,Subscription-Fitness,True
+2026-05-01,NEFT-TECHCORP SOLUTIONS PVT LTD-SAL-260647,Salary,Income,False
+2026-05-01,UPI-ZOMATO-zomato.68@icici-455623,Zomato,Food Delivery,False
+2026-05-01,UPI-Zomato Limited-482175-PAYMENT,Zomato,Food Delivery,False
+2026-05-01,UPI-Swiggy Limited-swiggy@axisbank-634957,Swiggy,Food Delivery,False
+2026-05-01,UPI-PVR CINEMAS-pvr@hdfcbank-252500,Movie/PVR,Entertainment,False
+2026-05-03,POS 3321 UBER TRIP,Uber,Transport,False
+2026-05-03,UPI-NETFLIX-netflix@icici-872343,Netflix,Subscription-Entertainment,True
+2026-05-04,FLIPKART INTERNET PVT LTD-280988,Flipkart,Shopping,False
+2026-05-04,UBER INDIA SYSTEMS-147321,Uber,Transport,False
+2026-05-04,BUNDL TECHNOLOGIES PVT LTD-352408,Swiggy,Food Delivery,False
+2026-05-04,UPI-AIRTEL BROADBAND-airtel@paytm-500978,Broadband,Utilities,True
+2026-05-05,CURE FIT HEALTHCARE-081219-AUTOPAY,CultFit,Subscription-Fitness,True
+2026-05-05,UPI-Ananya Iyer-ananya.iyer@paytm-655743,Friend Transfer,Personal Transfer,False
+2026-05-06,UPI-Karan Verma-karanv90@paytm-883171,Friend Transfer,Personal Transfer,False
+2026-05-06,BUNDL TECHNOLOGIES PVT LTD-987769,Swiggy,Food Delivery,False
+2026-05-06,UPI-PVR CINEMAS-pvr@hdfcbank-039308,Movie/PVR,Entertainment,False
+2026-05-06,POS 3321 UBER TRIP,Uber,Transport,False
+2026-05-06,POS 3321 UBER TRIP,Uber,Transport,False
+2026-05-07,UPI-Priya Sharma-priyasharma22@ybl-127756-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-05-07,UPI-Ananya Iyer-ananya.iyer@ybl-135680-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-05-08,UPI-ZEPTO-zepto@icici-367294,Big Bazaar/Grocery,Groceries,False
+2026-05-08,UBER INDIA SYSTEMS-004797,Uber,Transport,False
+2026-05-08,POS 7782 ZOMATO ONLINE,Zomato,Food Delivery,False
+2026-05-11,UPI-BIGBASKET-bigbasket@ybl-751863,Big Bazaar/Grocery,Groceries,False
+2026-05-11,UPI-SWIGGY-swiggy.86@ybl-473799-PAYMENT,Swiggy,Food Delivery,False
+2026-05-11,SPOTIFY INDIA-619399-AUTOPAY,Spotify,Subscription-Entertainment,True
+2026-05-11,ANI TECHNOLOGIES PVT LTD-246287,Ola,Transport,False
+2026-05-11,UBER INDIA SYSTEMS-785289,Uber,Transport,False
+2026-05-12,AMAZN PAY IND-950240,Amazon,Shopping,False
+2026-05-12,BUNDL TECHNOLOGIES PVT LTD-443135,Swiggy,Food Delivery,False
+2026-05-13,POS 3321 UBER TRIP,Uber,Transport,False
+2026-05-13,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-05-14,UPI-BIGBASKET-bigbasket@ybl-168457,Big Bazaar/Grocery,Groceries,False
+2026-05-14,UPI-ZOMATO-zomato.88@icici-221969,Zomato,Food Delivery,False
+2026-05-15,UPI-UBER INDIA-uber.payments@hdfcbank-276773,Uber,Transport,False
+2026-05-15,UBER INDIA SYSTEMS-991216,Uber,Transport,False
+2026-05-18,UPI-UBER INDIA-uber.payments@hdfcbank-624565,Uber,Transport,False
+2026-05-18,UPI-Swiggy Limited-swiggy@axisbank-136783,Swiggy,Food Delivery,False
+2026-05-18,UPI-Rohan Mehta-rohan.mehta@paytm-474112,Friend Transfer,Personal Transfer,False
+2026-05-19,UPI-OLA CABS-olamoney@icici-687056,Ola,Transport,False
+2026-05-19,POS 2210 APOLLO PHARMACY,Pharmacy,Health,False
+2026-05-20,POS 3321 UBER TRIP,Uber,Transport,False
+2026-05-20,UPI-OLA CABS-olamoney@icici-331190,Ola,Transport,False
+2026-05-20,ANI TECHNOLOGIES PVT LTD-342836,Ola,Transport,False
+2026-05-20,UPI-OLA CABS-olamoney@icici-306738,Ola,Transport,False
+2026-05-21,MINDWELL TECHNOLOGIES-699854-AUTOPAY,MindWell App,Subscription-Wellness,True
+2026-05-21,POS 3321 UBER TRIP,Uber,Transport,False
+2026-05-21,UBER INDIA SYSTEMS-249818,Uber,Transport,False
+2026-05-21,POS 4521 SWIGGY BANGALORE,Swiggy,Food Delivery,False
+2026-05-22,BSES RAJDHANI POWER LTD-016668,Electricity Board,Utilities,False
+2026-05-22,POS 2210 APOLLO PHARMACY,Pharmacy,Health,False
+2026-05-23,UPI-JIO RECHARGE-jio@icici-551104,Mobile Recharge,Utilities,False
+2026-05-25,UBER INDIA SYSTEMS-801824,Uber,Transport,False
+2026-05-25,UPI-OLA CABS-olamoney@icici-284395,Ola,Transport,False
+2026-05-25,UPI-Swiggy Limited-swiggy@axisbank-374989,Swiggy,Food Delivery,False
+2026-05-26,IMPS-RENT PAYMENT-569245,Rent,Housing,False
+2026-05-26,POS 3321 UBER TRIP,Uber,Transport,False
+2026-05-27,UPI-ZEPTO-zepto@icici-545892,Big Bazaar/Grocery,Groceries,False
+2026-05-27,UPI-UBER INDIA-uber.payments@hdfcbank-094396,Uber,Transport,False
+2026-05-27,POS 2210 APOLLO PHARMACY,Pharmacy,Health,False
+2026-05-28,UPI-ZEPTO-zepto@icici-001701,Big Bazaar/Grocery,Groceries,False
+2026-05-28,UPI-UBER INDIA-uber.payments@hdfcbank-259532,Uber,Transport,False
+2026-06-01,UPI-Rohan Mehta-rohan.mehta@ybl-365199-PAYMENT,Friend Transfer,Personal Transfer,False
+2026-06-01,UPI-MYNTRA-myntra@icici-152621,Myntra,Shopping,False
+2026-06-01,FITZONE FITNESS CENTER-346247,Local Gym,Subscription-Fitness,True
+2026-06-01,NEFT-TECHCORP SOLUTIONS PVT LTD-SAL-079911,Salary,Income,False
+2026-06-02,POS 3321 UBER TRIP,Uber,Transport,False
+2026-06-02,BUNDL TECHNOLOGIES PVT LTD-271094,Swiggy,Food Delivery,False
+2026-06-02,BUNDL TECHNOLOGIES PVT LTD-713493,Swiggy,Food Delivery,False
+2026-06-03,NETFLIX.COM-842513-RECURRING,Netflix,Subscription-Entertainment,True
+2026-06-03,UPI-BIGBASKET-bigbasket@ybl-371293,Big Bazaar/Grocery,Groceries,False
+2026-06-03,UPI-SWIGGY-swiggy.16@ybl-229413-PAYMENT,Swiggy,Food Delivery,False
+2026-06-04,FLIPKART INTERNET PVT LTD-049451,Flipkart,Shopping,False
+2026-06-04,BHARTI AIRTEL LTD-278498,Broadband,Utilities,True
+2026-06-05,ANI TECHNOLOGIES PVT LTD-351751,Ola,Transport,False
+2026-06-05,ANI TECHNOLOGIES PVT LTD-423536,Ola,Transport,False
+2026-06-05,POS 3321 UBER TRIP,Uber,Transport,False
+2026-06-05,UPI-CULTFIT-cultfit@ybl-124118,CultFit,Subscription-Fitness,True
+2026-06-05,POS 3321 UBER TRIP,Uber,Transport,False
+2026-06-07,UPI-SWIGGY REFUND-swiggy.92@ybl-937416-REFUND,Refund-Swiggy,Refund,False
+2026-06-08,UPI-SWIGGY-swiggy.38@ybl-206797-PAYMENT,Swiggy,Food Delivery,False
+2026-06-08,UPI-OLA CABS-olamoney@icici-708668,Ola,Transport,False
+2026-06-09,POS 7782 ZOMATO ONLINE,Zomato,Food Delivery,False
+2026-06-09,POS 1190 AMAZON PAY INDIA,Amazon,Shopping,False
+2026-06-10,UPI-SWIGGY-swiggy.21@ybl-913341-PAYMENT,Swiggy,Food Delivery,False
+2026-06-11,UPI-SPOTIFY-spotify@axisbank-493534,Spotify,Subscription-Entertainment,True
+2026-06-11,UBER INDIA SYSTEMS-368970,Uber,Transport,False
+2026-06-12,POS 7782 ZOMATO ONLINE,Zomato,Food Delivery,False
+2026-06-12,POS 2210 APOLLO PHARMACY,Pharmacy,Health,False
+2026-06-12,UPI-ZOMATO-zomato.70@icici-456232,Zomato,Food Delivery,False
+2026-06-12,UPI-ZEPTO-zepto@icici-206436,Big Bazaar/Grocery,Groceries,False
+2026-06-15,UPI-PHARMEASY-pharmeasy@ybl-490211,Pharmacy,Health,False
+2026-06-15,BLINKIT INSTAMART-324241,Big Bazaar/Grocery,Groceries,False
+2026-06-15,ANI TECHNOLOGIES PVT LTD-535560,Ola,Transport,False
+2026-06-15,UPI-BIGBASKET-bigbasket@ybl-121965,Big Bazaar/Grocery,Groceries,False
+2026-06-16,IMPS-RENT PAYMENT-547935,Rent,Housing,False
+2026-06-16,UPI-Swiggy Limited-swiggy@axisbank-047116,Swiggy,Food Delivery,False
+2026-06-16,AMAZON SELLER SERVICES-115921,Amazon,Shopping,False
+2026-06-17,FLIPKART INTERNET PVT LTD-315851,Flipkart,Shopping,False
+2026-06-17,UPI-AMAZON PAY-amazonpay@apl-775891,Amazon,Shopping,False
+2026-06-17,UPI-AMAZON PAY-amazonpay@apl-847007,Amazon,Shopping,False
+2026-06-17,POS 3321 UBER TRIP,Uber,Transport,False
+2026-06-17,POS 9012 DMART RETAIL,Big Bazaar/Grocery,Groceries,False
+2026-06-18,UPI-Swiggy Limited-swiggy@axisbank-867749,Swiggy,Food Delivery,False
+2026-06-18,ANI TECHNOLOGIES PVT LTD-477725,Ola,Transport,False
+2026-06-21,MINDWELL TECHNOLOGIES-401640-AUTOPAY,MindWell App,Subscription-Wellness,True
+2026-06-22,UPI-BIGBASKET-bigbasket@ybl-516271,Big Bazaar/Grocery,Groceries,False
+2026-06-22,UBER INDIA SYSTEMS-940974,Uber,Transport,False
+2026-06-23,UPI-Zomato Limited-367136-PAYMENT,Zomato,Food Delivery,False
+2026-06-24,ANI TECHNOLOGIES PVT LTD-393638,Ola,Transport,False
+2026-06-24,UPI-OLA CABS-olamoney@icici-469901,Ola,Transport,False
+2026-06-25,ANI TECHNOLOGIES PVT LTD-854458,Ola,Transport,False
+2026-06-25,UPI-ZOMATO-zomato.29@icici-974395,Zomato,Food Delivery,False
+2026-06-25,UPI-UBER INDIA-uber.payments@hdfcbank-309130,Uber,Transport,False
+2026-06-25,UPI-JIO RECHARGE-jio@icici-126788,Mobile Recharge,Utilities,False
+2026-06-25,PVR LIMITED-156915,Movie/PVR,Entertainment,False
+2026-06-26,POS 3321 UBER TRIP,Uber,Transport,False
+2026-06-26,BSES RAJDHANI POWER LTD-803397,Electricity Board,Utilities,False
+2026-06-26,UPI-ZEPTO-zepto@icici-542622,Big Bazaar/Grocery,Groceries,False
+2026-06-26,UPI-OLA CABS-olamoney@icici-735403,Ola,Transport,False
+2026-06-27,UPI-Rohan Mehta-rohan.mehta@paytm-215107,Friend Transfer,Personal Transfer,False
