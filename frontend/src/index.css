@@ -1,0 +1,14 @@
+/* ! @import tells Tailwind to inject these styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: theme('colors.background');
+  color: theme('colors.on-background');
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
