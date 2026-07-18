@@ -92,4 +92,16 @@ export async function checkHealth() {
   return handleResponse(response)
 }
 
+/**
+ * POST /api/upload/sample -- loads the bundled sample dataset through the
+ * real pipeline, same response shape as uploadStatement. Lets a user
+ * explore the app without needing their own CSV on hand.
+ */
+export async function uploadSampleData() {
+  const response = await fetch(`${BASE_URL}/upload/sample`, {
+    method: 'POST',
+  })
+  return handleResponse(response)
+}
+
 export { ApiError }
