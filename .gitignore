@@ -18,3 +18,15 @@ frontend/dist/
 # OS
 Thumbs.db
 .DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Env
+.env
