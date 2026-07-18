@@ -2,14 +2,16 @@
 Central configuration for SpendSense backend.
 
 """
+import os
 
-# CORS: allows the Vite dev server. Adds prod frontend origin when deployed.
+# CORS: allow the Vite dev server locally, plus the deployed frontend
+# (set via env var once we know the real Vercel URL). Comma-separated if
+# multiple origins are ever needed.
+_env_origins = os.environ.get("ALLOWED_ORIGINS", "")
 ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
-    "http://localhost:5174",
-    "http://127.0.0.1:5174",
-]
+] + [origin.strip() for origin in _env_origins.split(",") if origin.strip()]
 
 # Categorization thresholds
 FUZZY_MATCH_THRESHOLD = 72  # rapidfuzz token_set_ratio cutoff (per brief)
