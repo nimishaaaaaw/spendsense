@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import Card from '../shared/Card.jsx'
 import Button from '../shared/Button.jsx'
 import Icon from '../shared/Icon.jsx'
@@ -24,9 +25,11 @@ export default function QuickInsightCard({ topLeaks }) {
         )}
       </div>
       {topLeak && (
-        <Button variant="secondary" className="mt-lg self-start bg-white text-primary-container">
-          Review {topLeak.category}
-        </Button>
+        <Link to={`/transactions?category=${encodeURIComponent(topLeak.category)}`} className="mt-lg self-start">
+          <Button variant="secondary" className="bg-white text-primary-container">
+            Review {topLeak.category}
+          </Button>
+        </Link>
       )}
     </Card>
   )
